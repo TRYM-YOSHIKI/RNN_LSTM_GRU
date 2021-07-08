@@ -1,2 +1,2 @@
 # RNN_LSTM_GRU
-RNN(LSTMとGRU)で時系列データの回帰を行う
+回帰型ニューラルネットワーク(RNN)(LSTMとGRU)で時系列データの回帰を行う
